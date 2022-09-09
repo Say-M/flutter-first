@@ -1,0 +1,88 @@
+import 'interior_model.dart';
+
+List<Interior> interiors = [
+  Interior(
+    image: 'assets/images/interior-1.jpg',
+    location: '4 Mirpur 2 Road, Dhaka.',
+    bed: 03,
+    bath: 02,
+    area: 1700,
+  ),
+  Interior(
+    image: 'assets/images/interior-2.jpg',
+    location: '4 Embankment Drive Road, Dhaka 1230',
+    bed: 03,
+    bath: 02,
+    area: 1700,
+  ),
+  Interior(
+    image: 'assets/images/interior-3.jpg',
+    location: 'Gazipur 1200 Road, Dhaka 1230',
+    bed: 03,
+    bath: 02,
+    area: 1700,
+  ),
+  Interior(
+    image: 'assets/images/interior-4.jpg',
+    location: '4 Embankment Drive Road, Dhaka 1230',
+    bed: 03,
+    bath: 02,
+    area: 1700,
+  ),
+  Interior(
+    image: 'assets/images/interior-5.jpg',
+    location: '4 Embankment Drive Road, Dhaka 1230',
+    bed: 03,
+    bath: 02,
+    area: 1700,
+  ),
+  Interior(
+    image: 'assets/images/interior-6.jpg',
+    location: '4 Embankment Drive Road, Dhaka 1230',
+    bed: 03,
+    bath: 02,
+    area: 1700,
+  ),
+  Interior(
+    image: 'assets/images/interior-1.jpg',
+    location: '4 Mirpur 2 Road, Dhaka.',
+    bed: 03,
+    bath: 02,
+    area: 1700,
+  ),
+  Interior(
+    image: 'assets/images/interior-2.jpg',
+    location: '4 Embankment Drive Road, Dhaka 1230',
+    bed: 03,
+    bath: 02,
+    area: 1700,
+  ),
+  Interior(
+    image: 'assets/images/interior-3.jpg',
+    location: 'Gazipur 1200 Road, Dhaka 1230',
+    bed: 03,
+    bath: 02,
+    area: 1700,
+  ),
+  Interior(
+    image: 'assets/images/interior-4.jpg',
+    location: '4 Embankment Drive Road, Dhaka 1230',
+    bed: 03,
+    bath: 02,
+    area: 1700,
+  ),
+  Interior(
+    image: 'assets/images/interior-5.jpg',
+    location: '4 Embankment Drive Road, Dhaka 1230',
+    bed: 03,
+    bath: 02,
+    area: 1700,
+  ),
+  Interior(
+    image: 'assets/images/interior-6.jpg',
+    location: '4 Embankment Drive Road, Dhaka 1230',
+    bed: 03,
+    bath: 02,
+    area: 1700,
+  ),
+];
