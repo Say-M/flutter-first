@@ -94,27 +94,9 @@ class Home extends StatelessWidget {
               ),
               const SizedBox(height: 40),
               // ! cards
-              Expanded(
-                child: GridView.count(
-                  crossAxisCount: 2,
-                  crossAxisSpacing: 20,
-                  mainAxisSpacing: 20,
-                  childAspectRatio: 0.95,
-                  children: interiors
-                      .map((interior) => _cardWidget(
-                            interior.image,
-                            interior.location,
-                            interior.bed,
-                            interior.bath,
-                            interior.area,
-                          ))
-                      .toList(),
-                ),
-              ),
             ],
           ),
         ),
-        // bottomNavigationBar: const BottomNav(),
       ),
     );
   }
