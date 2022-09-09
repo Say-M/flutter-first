@@ -114,7 +114,7 @@ class Home extends StatelessWidget {
             ],
           ),
         ),
-        bottomNavigationBar: const BottomNav(),
+        // bottomNavigationBar: const BottomNav(),
       ),
     );
   }
